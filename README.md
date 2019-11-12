@@ -1,2 +1,2 @@
-# instaa-git-class
-Live GIT session with Instaacoders Team
+# InstaaCoders Live GIT Session
+Purpose of this git repo is to learn basics of git and create something awesome!
